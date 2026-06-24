@@ -29,7 +29,7 @@ export default function About() {
               </p>
             </div>
 
-            <div className="mt-10 grid grid-cols-2 gap-4">
+            <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4">
               {['Certified Trainers', 'Dual Control Cars', 'Modern Simulators', 'High Success Rate'].map((item, i) => (
                 <div key={i} className="flex items-center gap-3">
                   <CheckCircle2 className="text-brand-secondary" size={24} />
@@ -54,7 +54,7 @@ export default function About() {
               />
             </div>
             
-            <div className="absolute -bottom-6 -left-6 bg-brand-secondary text-brand-primary p-6 rounded-2xl shadow-xl max-w-[200px]">
+            <div className="absolute -bottom-4 left-4 md:-bottom-6 md:-left-6 bg-brand-secondary text-brand-primary p-6 rounded-2xl shadow-xl max-w-[200px]">
               <p className="text-4xl font-black mb-1">500+</p>
               <p className="font-medium leading-tight">Confident drivers trained</p>
             </div>

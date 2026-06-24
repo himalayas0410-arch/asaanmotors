@@ -88,7 +88,7 @@ export default function Contact() {
                 <input type="text" className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-blue-200 focus:outline-none focus:border-brand-secondary transition-colors" placeholder="John Doe" />
               </div>
               
-              <div className="grid grid-cols-2 gap-4">
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div>
                   <label className="block text-blue-100 text-sm font-medium mb-1">Mobile Number</label>
                   <input type="tel" className="w-full px-4 py-3 bg-white/10 border border-white/20 rounded-xl text-white placeholder-blue-200 focus:outline-none focus:border-brand-secondary transition-colors" placeholder="+91 XXXXX XXXXX" />
