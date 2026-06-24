@@ -18,7 +18,7 @@ import FloatingActionButtons from './components/FloatingActionButtons';
 
 export default function App() {
   return (
-    <div className="min-h-screen font-sans selection:bg-brand-secondary selection:text-brand-primary">
+    <div className="min-h-screen overflow-x-hidden font-sans selection:bg-brand-secondary selection:text-brand-primary">
       <Navbar />
       <Hero />
       <Features />
