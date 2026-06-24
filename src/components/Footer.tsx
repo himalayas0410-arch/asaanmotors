@@ -55,7 +55,7 @@ export default function Footer() {
           <div>
             <h4 className="font-bold font-heading text-lg mb-6">Visit Us</h4>
             <div className="text-blue-100 space-y-4">
-              <p>C-2/9 Vikas Market, Near Shriram Vatika,<br/>Kamla Nagar, Agra</p>
+              <p>Shop no. C2/12/5, Vikas Market,<br/>Near Sultanganj Crossing, Kamla Nagar, Agra</p>
               <div className="pt-2">
                 <p>+91 98370 40974</p>
                 <p>+91 99270 01930</p>

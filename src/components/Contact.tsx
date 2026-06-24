@@ -25,8 +25,8 @@ export default function Contact() {
                 </div>
                 <h4 className="font-bold text-brand-primary mb-2">Our Location</h4>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  C-2/9 Vikas Market, Near Shriram Vatika,<br />
-                  Kamla Nagar, Agra
+                  Shop no. C2/12/5, Vikas Market,<br />
+                  Near Sultanganj Crossing, Kamla Nagar, Agra
                 </p>
               </div>
               
@@ -62,7 +62,7 @@ export default function Contact() {
 
             <div className="w-full h-64 bg-gray-200 rounded-2xl overflow-hidden relative">
               <iframe 
-                src="https://maps.google.com/maps?q=C-2/9%20Vikas%20Market,%20Near%20Shriram%20Vatika,%20Kamla%20Nagar,%20Agra&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=27.2101385,78.0194044+(Asaan+Motor+Driving+Training+School)&t=&z=16&ie=UTF8&iwloc=&output=embed"
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
