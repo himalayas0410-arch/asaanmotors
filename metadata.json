@@ -1,0 +1,8 @@
+{
+  "name": "Asaan Motors Driving Training",
+  "description": "Modern, premium, mobile-first website for Asaan Motors Driving Training School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
